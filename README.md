@@ -3,6 +3,7 @@
 追踪设计工具、AI 设计动态和设计资讯的每日/每周摘要。
 
 ![Design Daily Preview](preview.jpg)
+![Design Daily Preview 2](preview-2.png)
 
 
 ## 功能
